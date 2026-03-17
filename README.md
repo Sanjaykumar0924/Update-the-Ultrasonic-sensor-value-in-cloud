@@ -212,10 +212,11 @@ long microsecondsToCentimeters(long microseconds)
 
 <img width="1919" height="1029" alt="Screenshot 2026-03-16 120423" src="https://github.com/user-attachments/assets/24e4bbab-4480-4ace-a27a-d9a44ff02429" />
 
+#SERIAL MONITOR
 <img width="1908" height="964" alt="Screenshot 2026-03-16 120351" src="https://github.com/user-attachments/assets/c86ab43b-3990-4169-b1d5-ff6a87f4c691" />
-
+#DISTANCE GRAPH
 <img width="1896" height="965" alt="Screenshot 2026-03-16 120337" src="https://github.com/user-attachments/assets/df5b98b6-0cf2-4aba-a2fc-1f18cec842c2" />
-
+#UPLINK CODE
 # RESULT:
 
 Thus the Ultrasonic sensor value is uploaded in the Things mate using Arduino controller.
